@@ -1,0 +1,2 @@
+# bookstore
+first django project
