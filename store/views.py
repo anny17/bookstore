@@ -5,4 +5,4 @@ def index(request):
 
 
 def store(request):
-    return render(request,'C:\Users\anny\Desktop\django\bookstore\store\store.html')
+    return render(request,'store.html')
